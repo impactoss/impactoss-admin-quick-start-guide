@@ -2,41 +2,36 @@
 
 # Admin Quick Start Guide
 
-## Introduction
+## 1. Introduction
 
-This guide is a brief introduction into the features and components of **IMPACT OSS**, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), as well as selected use cases. IMPACT OSS was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History & credits](/appendix/history.md)).
+This guide is a brief introduction into **IMPACT OSS**, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT). IMPACT OSS was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History & credits](/appendix/history.md)).
 
-This guide is aimed at **admin users only** that are tasked with editing the content or overseeing content editing. It complements the full **[IMPACT OSS User Manual](https://user-manual.impactoss.org)** that describes the application in more detail and also includes guidance for public audiences (also see [Types of users](/info/usertypes.md)).
+It is split into 3 sections:
 
+##### 1. Introduction
 
-> This guide is based on the basic "Rights only" demo configuration that can be found here [demo-rights.impactoss.org](https://demo-rights.impactoss.org)
-
----
-
-#### Overview
-
-This guide is structures as follows:
-
-##### Introduction
-
-This introductory part is complemented by the following sections that establish the features and components of IMPACT OSS:
+This introductory part is complemented by the following sections that establish the features and views of IMPACT OSS:
 
 * **[>> Features](features.md)**: an overview of features
-* **[>> Components](components.md)**: an overview of the different application components
+* **[>> Views](components.md)**: a tour through the different application views
 
-##### 1. The Guide
+##### 2. Step-by-step
 
 The main part contains a few selected use cases with step-by-step instructions for website administrators:
 
+* **[>> Invite & promote users](/guide/users-admin.md)**: how to get additional users on board
 * **[>> Create Implementation Plan](/guide/create-implementation-plan.md)**: from entering and preparing **UN Recommendations** to defining and assigning **Government Actions**
 * **[>> Monitor Implementation Plan](/guide/monitor-implementation-plan.md)**: the different options for viewing the implementation plan of actions
-* **[>> Invite & promote users](/guide/users-admin.md)**: how to get additional users on board
 
-##### 2. Further Information
+##### 3. Additional information
 
 The final part provides some additional information, in particular:
 
 * **[>> Types of users](/info/usertypes.md)**: the different user types and their rights and responsibilities
+
+This guide is aimed at **admin users only** that are tasked with editing the content or overseeing content editing. It complements the full **[IMPACT OSS User Manual](https://user-manual.impactoss.org)** that describes the application in more detail and also includes guidance for public audiences (also see [Types of users](/info/usertypes.md)).
+
+> This guide is based on the basic "Rights only" demo configuration that can be found here [demo-rights.impactoss.org](https://demo-rights.impactoss.org)
 
 ---
 

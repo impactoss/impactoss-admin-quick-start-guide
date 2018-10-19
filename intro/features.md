@@ -12,10 +12,11 @@ With IMPACT OSS you can create, publish, update and finally also link the requir
 * **Indicators** that allow tracking implementation progress and outcomes
 * **Clusters & categories** that group and characterise recommendations and actions
 * **Pages** for providing context and editorial content
+* Optionally: the 169 **SDG targets** for the 17 Sustainable Development Goals (SDGs)
 
 ---
 
-#### Batch features
+#### Batch features for maintaining multiple items at once
 
 In addition to allowing these items to be created and maintained individually and one-by-one, IMPACT OSS comes equipped with some powerful batch features that allow creating or updating multiple items at once.
 
@@ -39,7 +40,7 @@ Visual breakdowns of recommendations and actions by categories are provided to f
 
 ##### Filtering content
 
-Recommendation and action lists can be filtered by
+Recommendation and action overview lists can be filtered by
 * reference or keyword (contained in title)
 * category (any tag associated with item, e.g. recommendation cluster, treaty body, etc)
 * connection (any other linked item)
