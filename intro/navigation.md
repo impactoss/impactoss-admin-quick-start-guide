@@ -11,7 +11,7 @@ Except on the welcome page, IMPACT OSS offers three levels of navigation for exp
 ![](/assets/navigation.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
-> Note: when on the **Overview** page as pictured above, the primary content can also be accessed through the diagram (4)
+> Note: when on the **Overview** page as pictured above, content can also be accessed through the diagram (4)
 
 ---
 
