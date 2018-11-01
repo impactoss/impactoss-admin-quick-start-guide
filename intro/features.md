@@ -4,15 +4,18 @@ IMPACT OSS is a software created to assist States with coordinating and monitori
 
 ---
 
-#### Maintaining content
+#### Managing content
 
 With IMPACT OSS you can create, publish, update and finally also link the required content items:
-* **UN recommendations** that States receive from Treaty Bodies and other UN human rights mechanisms;
-* **Government actions** that Governments define to address the recommendations (and optionally also the 169 SDG targets);
-* **Indicators** that allow tracking implementation progress and outcomes
-* **Clusters & categories** that group and characterise recommendations and actions
+* ![](/assets/icon-recommendations_small.png) **Recommendations**: recommendations and observations that States receive from UN Treaty Bodies and other UN human rights mechanisms;
+* ![](/assets/icon-sdgs_small.png) **SDG targets** (optional configuration, not pictured below): the 169 internationally agreed targets to achieve the 17 SDGs (Sustainable Development Goals)
+* ![](/assets/icon-action_small.png) **Actions**: government actions to address and implement the recommendations (and SDG targets), forming the national **Implementation plan**
+* ![](/assets/icon-indicators_small.png) **Indicators** and **reports**: progress and outcome indicators, as well as associated reports, to track and document action implementation progress and outcomes
+* ![](/assets/icon-categories_small.png) **Clusters & categories**: tags for clustering and grouping recommendations, targets and actions, and ultimately for facilitating analysis and reporting. IMPACT allows setting up different category types, for example ![](/assets/icon-hr-bodies_small.png) recommending mechanisms, ![](/assets/icon-clusters_small.png) recommendation clusters, ![](/assets/icon-hr-issues_small.png) themes/issues, ![](/assets/icon-affected-persons_small.png) person groups,
+![](/assets/icon-organisations_small.png) implementing agencies.
 * **Pages** for providing context and editorial content
-* Optionally: the 169 **SDG targets** for the 17 Sustainable Development Goals (SDGs)
+
+See also **[>> Managing content](/intro/management.md)**
 
 ---
 
@@ -50,6 +53,8 @@ Recommendation and action overview lists can be filtered by
 ##### Implementation plan view
 
 The implementation plan view allows drilling down to show any progress reports and upcoming due dates nested within the list of actions.
+
+See also **[>> Navigation](/intro/navigation.md)**
 
 ---
 
