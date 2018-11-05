@@ -2,7 +2,9 @@
 
 ### Invite & promote users
 
-This step-by-step guide explains how website administrators can get other qualified users onboard to help manage and monitor the implementation plan and other database content.
+This step-by-step guide explains how website administrators and managers can get other qualified users onboard to help manage and monitor the implementation plan and other database content.
+
+![](https://docs.google.com/drawings/d/e/2PACX-1vT5dJBHnRPBWobWUBQlLueAi8YshH6S2srYkZH02LzBzB--ZsOeK9an0WoWg1Ztu_wnlrrq98-UJpBj/pub?w=649&h=472)
 
 #### Pre-requisites: knowledge of the different user roles
 
@@ -10,7 +12,7 @@ Before inviting and promoting new users it is expected that you have familiarise
 
 #### 1. Invite a user
 
-Send the user an email and **share a link to the registration page**. Currently users cannot yet be invited through the application.
+Send the user an email and **share a link to the registration page**. Unfortunately users cannot currently yet be invited through the application.
 
 > Hint: if you do not want to keep re-loading the list of users and wait until the new user has signed up, ask the new user to let you know once they have registered
 
