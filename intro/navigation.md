@@ -1,6 +1,11 @@
 ### Navigation
 
-#### Menus
+IMPACT OSS database content can be explored using several different
+
+* **menus** (that mostly link lists of individual content items stored in the database (such as recommendations or actions)), and
+* **content links** (that link to individual content items either from a list view or another single item view).
+
+####  Menus
 
 Except on the welcome page, IMPACT OSS offers three levels of navigation for exploring and managing the database content (for a full list of available views please see **[Pages](info/components.md)**):
 
