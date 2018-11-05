@@ -15,7 +15,7 @@
 
 ## 3. Additional information
 
-* [Types of users](info/usertypes.md)
+* [User roles](info/userroles.md)
 * [Pages](info/components.md)
   * [Home](info/component-home.md)
   * [Overview](info/component-overview.md)

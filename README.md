@@ -12,12 +12,13 @@ It is split into 3 sections:
 
 This introductory part is complemented by the following sections that establish the features and views of IMPACT OSS:
 
-* **[>> Features](features.md)**: an overview of features
-* **[>> Views](components.md)**: a tour through the different application views
+* **[>> Features](/intro/features.md)**: an overview of features
+* **[>> Navigation](/intro/navigation.md)**: an introduction to IMPACT OSS navigation concepts
+* **[>> Managing content](/intro/management.md)**: a few notes on how to manage content in IMPACT OSS
 
 ##### 2. Step-by-step
 
-The main part contains a few selected use cases with step-by-step instructions for website administrators:
+The main part of this guide contains a few selected use cases with step-by-step instructions for website administrators:
 
 * **[>> Invite & promote users](/guide/users-admin.md)**: how to get additional users on board
 * **[>> Create Implementation Plan](/guide/create-implementation-plan.md)**: from entering and preparing **UN Recommendations** to defining and assigning **Government Actions**
@@ -27,11 +28,13 @@ The main part contains a few selected use cases with step-by-step instructions f
 
 The final part provides some additional information, in particular:
 
-* **[>> Types of users](/info/usertypes.md)**: the different user types and their rights and responsibilities
+* **[>> User roles](/info/userroles.md)**: the different user roles and their privileges
+
+---
 
 This guide is aimed at **admin users only** that are tasked with editing the content or overseeing content editing. It complements the full **[IMPACT OSS User Manual](https://user-manual.impactoss.org)** that describes the application in more detail and also includes guidance for public audiences (also see [Types of users](/info/usertypes.md)).
 
-> This guide is based on the basic "Rights only" demo configuration that can be found here [demo-rights.impactoss.org](https://demo-rights.impactoss.org)
+> This guide is largely based on the simple "Rights only" demo configuration that can be found here [demo-rights.impactoss.org](https://demo-rights.impactoss.org)
 
 ---
 
