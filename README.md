@@ -21,8 +21,10 @@ This introductory part is complemented by the following sections that establish 
 The main part of this guide contains a few selected use cases with step-by-step instructions for website administrators:
 
 * **[>> Invite & promote users](/guide/users-admin.md)**: how to get additional users on board
-* **[>> Create Implementation Plan](/guide/create-implementation-plan.md)**: from entering and preparing **UN Recommendations** to defining and assigning **Government Actions**
+* **[>> Enter recommendations & actions](/guide/create-implementation-plan.md)**: from entering and preparing **UN Recommendations** to defining and assigning **Government Actions**
 * **[>> Monitor Implementation Plan](/guide/monitor-implementation-plan.md)**: the different options for viewing the implementation plan of actions
+* **[>> Import recommendations](guide/import.md)**:
+* **[>> Update multiple recommendations](guide/batch-edit.md)**:
 
 ##### 3. Additional information
 

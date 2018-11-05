@@ -10,13 +10,15 @@
 ## 2. Step by step
 
 * [Invite & promote users](guide/users-admin.md)
-* [Create Implementation Plan](guide/create-implementation-plan.md)
+* [Enter recommendations & actions](guide/enter-recommendations.md)
 * [Monitor Implementation Plan](guide/monitor-implementation-plan.md)
+* [Import recommendations](guide/import.md)
+* [Update multiple recommendations](guide/batch-edit.md)
 
 ## 3. Additional information
 
 * [User roles](info/userroles.md)
-* [Pages](info/components.md)
+* [Page overview](info/components.md)
   * [Home](info/component-home.md)
   * [Overview](info/component-overview.md)
   * [Category breakdowns](info/component-taxonomy.md)
