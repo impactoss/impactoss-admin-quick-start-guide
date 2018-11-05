@@ -4,7 +4,7 @@ Rather than having a separate "back-end" (or admin portal) to manage content, IM
 
 ##### List view
 
-So any list view (see 'Recommendations list' pictured below) admin users will be offered with additional options:
+So on any list view (see 'Recommendations list' pictured below) admin users will be offered with additional options:
 
 1. **Batch edit options** to update multiple list items at once
 2. **Item select options** to select one or more items for batch editing
