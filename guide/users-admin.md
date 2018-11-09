@@ -1,6 +1,6 @@
 ## 2. Step by step
 
-### Invite & promote users
+### Users: invite & promote
 
 This step-by-step guide explains how website administrators and managers can get other qualified users onboard to help manage and monitor the implementation plan and other database content.
 

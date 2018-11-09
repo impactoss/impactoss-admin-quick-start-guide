@@ -1,7 +1,7 @@
-### Enter & cluster recommendations
+### Recommendations: enter & cluster
 
-This step-by-step guide will teach you how to manually enter, tag and cluster human rights recommendations. Alternatively multiple recommendations can also be created at once using the CSV import feature (see [Import recommendations](/guide/import.md)) and linked using the batch edit feature (see [Update multiple recommendations](/guide/batch-edit.md)).
 
+This step-by-step guide will teach you how to manually enter, tag and cluster human rights recommendations. Alternatively multiple recommendations can also be created at once using the CSV import feature (see [Import: create multiple](/guide/import.md)) and linked using the batch edit feature (see [Batch edit: update multiple](/guide/batch-edit.md)).
 ![](https://docs.google.com/drawings/d/e/2PACX-1vSAaiohOVl8fU1oTKB0MFFhd7zdPC3txNNSkvEvYYnbLxgvJANydS9CUNhKMSGM96rSU6WtSHfMG0AV/pub?w=975&h=640)
 
 ---
@@ -68,11 +68,7 @@ For each classification:
 
 Simply click on the classification title.
 
-###### 1.4.2. Optional: filter options by keyword
-
-Simply enter a (partial) keyword to filter the list of options.
-
-###### 1.4.3. Optional: create a new category
+###### 1.4.2. Optional: create a new category
 
 If your category is not yet available, you can create a new category by clicking 'Add +' at the bottom left of the options panel.
 
@@ -86,6 +82,10 @@ The category attributes are:
 4. **Short title**: Optional: a short name for the category as used for category tags. If left blank application will display an abbreviation of the Title.   
 5. **Description**: Optional: a description of the category. Can also include any commentary provided.
 6. **Website**: Optional: any external website address that may provide further information about the category.
+
+###### 1.4.3. Optional: filter options by keyword
+
+Simply enter a (partial) keyword to filter the list of options.
 
 ###### 1.4.4. Close classification options
 

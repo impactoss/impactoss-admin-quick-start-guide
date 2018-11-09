@@ -16,15 +16,16 @@ This introductory part is complemented by the following sections that establish 
 * **[>> Navigation](/intro/navigation.md)**: an introduction to IMPACT OSS navigation concepts
 * **[>> Managing content](/intro/management.md)**: a few notes on how to manage content in IMPACT OSS
 
-##### 2. Step-by-step
+##### 2. Step-by-step instructions
 
 The main part of this guide contains a few selected use cases with step-by-step instructions for website administrators:
 
-* **[>> Invite & promote users](/guide/users-admin.md)**: how to get additional users on board
-* **[>> Enter recommendations & actions](/guide/create-implementation-plan.md)**: from entering and preparing **UN Recommendations** to defining and assigning **Government Actions**
-* **[>> Monitor Implementation Plan](/guide/monitor-implementation-plan.md)**: the different options for viewing the implementation plan of actions
-* **[>> Import recommendations](guide/import.md)**:
-* **[>> Update multiple recommendations](guide/batch-edit.md)**:
+* **[>> Users: invite & promote](/guide/users-admin.md)**: how to get additional users on board
+* **[>> Recommendations: enter & cluster](/guide/enter-recommendations.md)**: how to enter & cluster UN recommendations
+* **[>> Action: enter & link ](/guide/enter-recommendations.md)**: how to enter Government actions and link them with UN recommendations
+* **[>> Explore: filter, group & sort](/guide/explore.md)**: the different options for viewing the implementation plan of actions
+* **[>> Import: create multiple](guide/import.md)**: how to create multiple Government actions and UN recommendations at once
+* **[>> Batch edit: update multiple](guide/batch-edit.md)**: how to update multiple Government actions and UN recommendations at once
 
 ##### 3. Additional information
 

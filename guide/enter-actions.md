@@ -1,4 +1,4 @@
-### Enter & link actions
+### Actions: enter & link
 
 This step-by-step guide will teach you how to manually enter, and tag government actions as well as link them with human rights recommendations they address. Just like recommendations, multiple actions can alternatively be created at once using the CSV import feature (similar to [Import recommendations](/guide/import.md)) and linked using the batch edit feature (similar to [Update multiple recommendations](/guide/batch-edit.md)).
 

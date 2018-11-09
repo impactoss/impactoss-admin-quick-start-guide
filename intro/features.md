@@ -27,9 +27,13 @@ In addition to allowing these items to be created and maintained individually an
 
 IMPACT OSS allows creating multiple items at once by using the import feature that is available for recommendations, actions, and indicators. The import feature requires the content to be prepared and saved as a CSV text file that can be edited using appropriate spreadsheet software such as MS Excel. CSV templates can be downloaded for each item that include all the required and optional attributes.
 
+See also **[>> Import: create multiple](guide/import.md)**
+
 ##### Batch edit: update multiple items
 
 With IMPACT OSS you can also update multiple items at once, as well as link multiple items with multiple other items, for example assigning multiple recommendations to a recommendation cluster or linking multiple actions with all recommendations of a recommendation cluster that they address.
+
+See also **[>> Batch edit: update multiple](guide/batch-edit.md)**
 
 ---
 
@@ -54,7 +58,9 @@ Recommendation and action overview lists can be filtered by
 
 The implementation plan view allows drilling down to show any progress reports and upcoming due dates nested within the list of actions.
 
-See also **[>> Navigation](/intro/navigation.md)**
+See also
+* **[>> Navigation](/intro/navigation.md)**
+* **[>> Explore: filter, group & sort](/guide/explore.md)**
 
 ---
 

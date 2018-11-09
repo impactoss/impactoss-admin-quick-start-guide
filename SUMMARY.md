@@ -9,12 +9,12 @@
 
 ## 2. Step by step
 
-* [Invite & promote users](guide/users-admin.md)
-* [Enter & cluster recommendations](guide/enter-recommendations.md)
-* [Enter & link actions](guide/enter-actions.md)
-* [Monitor Implementation Plan](guide/monitor-implementation-plan.md)
-* [Import recommendations](guide/import.md)
-* [Update multiple recommendations](guide/batch-edit.md)
+* [Users: invite & promote](guide/users-admin.md)
+* [Recommendations: enter & cluster](guide/enter-recommendations.md)
+* [Actions: enter & link](guide/enter-actions.md)
+* [Explore: filter, group & sort](guide/explore.md)
+* [Batch edit: update multiple](guide/batch-edit.md)
+* [Import: create multiple](guide/import.md)
 
 ## 3. Additional information
 
