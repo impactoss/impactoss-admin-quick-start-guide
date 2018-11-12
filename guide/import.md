@@ -6,7 +6,7 @@ This step-by-step guide will illustrate how to import multiple **Recommendations
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vQ07OAJSQ-heRG6_rbq06Cl72D8RwxHN_UJDLExztrjbseZd4i9I_x7ImuyP_m10L0l2tB_z3Z6FoyY/pub?w=972&h=579)
 
-> Note: the following screenshots are either showing recommendation OR action lists but unless otherwise stated they are applicable to both (in fact they also apply in principal to any other list page, including **User admin**, **Page admin**, and **Indicator list**, as well as **SDG target** list if configured)
+> Note: the following screenshots are either showing recommendation OR action lists but unless otherwise stated they are also applicable to other list views (including **Indicator list** and **SDG target** list if configured).
 
 ---
 
