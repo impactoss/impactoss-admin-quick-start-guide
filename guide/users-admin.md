@@ -36,7 +36,7 @@ Reload the application to get the latest data from the database that shall inclu
 
 The **User admin** page is located in the secondary menu at the top of the page (also see [Navigation](/intro/navigation.md))
 
-![](/assets/2-2_users-admin.png)
+![](/assets/users-admin_2-2.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 2.3. Open the single user page
@@ -45,28 +45,28 @@ A single user can be opened by clicking on their **name** (also see [Navigation]
 
 > Note: you can also type the user name into the filter text field to filter the list to locate the user
 
-![](/assets/2-3_users-admin.png)
+![](/assets/users-admin_2-3.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 2.4. Click 'EDIT'
 
 Click **EDIT** to open the single user edit page (also see [Managing content](/intro/management.md))
 
-![](/assets/2-4_users-admin.png)
+![](/assets/users-admin_2-4.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 2.5. Select a 'User role'
 
 Click on the **User role** drop down list and select the appropriate user role (also see [User roles](/info/userroles.md))
 
-![](/assets/2-5_users-admin.png)
+![](/assets/users-admin_2-5.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 2.6. Hit 'SAVE' on the top or bottom of the screen.
 
 This will **save** the new user role and return you to the single user page
 
-![](/assets/2-6_users-admin.png)
+![](/assets/users-admin_2-6.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ---
