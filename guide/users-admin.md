@@ -1,4 +1,7 @@
+
+---
 ## 2. Step by step
+---
 
 ### Users: invite & promote
 
