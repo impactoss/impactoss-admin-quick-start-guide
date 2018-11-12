@@ -26,11 +26,17 @@ Steps for entering a government action:
 
 From the primary menu select 'Implementation plan' that lists all existing actions.
 
+![](/assets/enter-actions_1-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ##### 1.2. Click 'Add implementing action +'
 
 The 'New action' page can be opened by clicking the 'Add implementing action +' button.
 
 > Note: only logged in users with sufficient privileges, namely users with user role 'Manager' or 'Administrator' will have this option
+
+![](/assets/enter-actions_1-2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 1.3. Enter action details
 
@@ -49,6 +55,9 @@ Enter the action details according to the available attributes (required fields 
 5. **Target date comment**: Any comment to further explain the target date.
 
 > Note: other configurations may offer additional attributes, i.e. **Outcome**, **Indicator summary**.
+
+![](/assets/enter-actions_1-3.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 1.4. Cluster and group actions
 
@@ -78,15 +87,31 @@ You can now link the action with one or more recommendations it addresses.
 
 Simply click on the 'Recommendations' drop down.
 
+![](/assets/enter-actions_1-5-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ###### 1.5.2. Optional: filter recommendation by keyword, cluster or other category
 
 You can filter the list of recommendations by:
 * Keyword or reference by typing it into the text field.
 * Cluster or other category. This is specifically helpful if the action should address all or multiple recommendations of a recommendation cluster. Just click the checkbox to select all filtered recommendations
 
-###### 1.4.3. Close recommendation options
+![](/assets/enter-actions_1-5-2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+###### 1.5.3. Select recommendation options
+
+Select one or more recommendations. Please note how updated items are marked on the right - in addition a selection summary is given at the bottom of the list (also highlighted in screenshot below).
+
+![](/assets/enter-actions_1-5-3.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+###### 1.5.4. Close recommendation options
 
 Finally click 'Close' at the bottom of the option panel.
+
+![](/assets/enter-actions_1-5-4.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 1.6. Create and link progress indicator
 
@@ -96,6 +121,9 @@ Just like categories and recommendations, you can also link to a new or existing
 
 Simply click on the 'indicators' drop down.
 
+![](/assets/enter-actions_1-6-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ###### 1.6.2. Optional: filter options by keyword
 
 Simply enter a (partial) keyword to filter the list of options.
@@ -103,6 +131,9 @@ Simply enter a (partial) keyword to filter the list of options.
 ###### 1.6.3. Optional: create a new indicator
 
 If a suitable progress indicator is not yet available, you can create it by clicking 'Add +' at the bottom left of the options panel.
+
+![](/assets/enter-actions_1-6-3.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 Enter the indicator details and hit 'SAVE' at the bottom of the 'New indicator' dialogue.
 
@@ -113,16 +144,31 @@ The indicator attributes are:
 3. **Publication status**: Select 'Draft' to keep the indicator private or change to 'Public' to make it public right away.
 4. **Description**: Optional: a description of the indicator.
 
+![](/assets/enter-actions_1-6-3a.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 > Note: currently IMPACT OSS does not offer assigning responsible users and setting up a reporting schedule for the newly created indicator right from within the new action page. These will have to be set up from the 'edit indicator page' instead.
 
+###### 1.6.4. Select indicator options
 
-###### 1.6.4. Close indicator options
+Select one or more indicators.
+
+![](/assets/enter-actions_1-6-4.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+###### 1.6.5. Close indicator options
 
 Click 'Close' at the bottom of the option panel.
+
+![](/assets/enter-actions_1-6-5.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 1.7. Save action
 
 Once you are satisfied with the details entered and categories associated, hit the 'SAVE' button at the top or bottom of the form. Do not worry if you have forgotten some category associations or so not have available all the information required - you can always come back and update the action at a later stage.
+
+![](/assets/enter-actions_1-7.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ---
 
