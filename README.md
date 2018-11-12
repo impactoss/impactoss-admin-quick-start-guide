@@ -4,13 +4,13 @@
 
 ## 1. Introduction
 
-This guide is a brief introduction into **IMPACT OSS**, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT). IMPACT OSS was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History & credits](/appendix/history.md)).
+This guide is a brief introduction to **IMPACT OSS** for **website administrators**. IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History & credits](/appendix/history.md)).
 
-It is split into 3 sections:
+It is split into 3 parts
 
 ##### 1. Introduction
 
-This introductory part is complemented by the following sections that establish the features and views of IMPACT OSS:
+This introductory part is complemented by the following sections that explain the features and basic concepts of IMPACT OSS:
 
 * **[>> Features](/intro/features.md)**: an overview of features
 * **[>> Navigation](/intro/navigation.md)**: an introduction to IMPACT OSS navigation concepts
@@ -24,8 +24,8 @@ The main part of this guide contains a few selected use cases with step-by-step 
 * **[>> Recommendations: enter & cluster](/guide/enter-recommendations.md)**: how to enter & cluster UN recommendations
 * **[>> Action: enter & link ](/guide/enter-recommendations.md)**: how to enter Government actions and link them with UN recommendations
 * **[>> Explore: filter, group & sort](/guide/explore.md)**: the different options for viewing the implementation plan of actions
-* **[>> Import: create multiple](guide/import.md)**: how to create multiple Government actions and UN recommendations at once
 * **[>> Batch edit: update multiple](guide/batch-edit.md)**: how to update multiple Government actions and UN recommendations at once
+* **[>> Import: create multiple](guide/import.md)**: how to create multiple Government actions and UN recommendations at once
 
 ##### 3. Additional information
 
@@ -35,7 +35,7 @@ The final part provides some additional information, in particular:
 
 ---
 
-This guide is aimed at **admin users only** that are tasked with editing the content or overseeing content editing. It complements the full **[IMPACT OSS User Manual](https://user-manual.impactoss.org)** that describes the application in more detail and also includes guidance for public audiences (also see [Types of users](/info/usertypes.md)).
+This guide is aimed at **admin users only** that are tasked with editing the content or overseeing content editing. It complements the full **[IMPACT OSS User Manual](https://user-manual.impactoss.org)** that describes the application in more detail and also includes guidance for public audiences (also see [User roles](/info/userroles.md)).
 
 > This guide is largely based on the simple "Rights only" demo configuration that can be found here [demo-rights.impactoss.org](https://demo-rights.impactoss.org)
 
@@ -53,4 +53,4 @@ For more information on the development history and credits for the IMPACT OSS s
 
 ###### License
 
-This manual is part of the [IMPACT OSS open source software](https://github.com/impactoss/impactoss-server/) and accordingly licensed under the same MIT license, see [License](LICENSE.md).
+This manual is part of [IMPACT OSS](https://github.com/impactoss/impactoss-client) and accordingly licensed under the same MIT license, see [License](LICENSE.md).
