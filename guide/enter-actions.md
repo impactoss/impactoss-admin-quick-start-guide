@@ -113,7 +113,7 @@ Finally click 'Close' at the bottom of the option panel.
 ![](/assets/enter-actions_1-5-4.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
-##### 1.6. Create and link progress indicator
+##### 1.6. Create and link progress indicators
 
 Just like categories and recommendations, you can also link to a new or existing progress indicator.
 
