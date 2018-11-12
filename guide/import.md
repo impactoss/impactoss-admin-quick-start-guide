@@ -24,6 +24,9 @@ In order to enter and cluster recommendations you will need to
 
 To go to the list of recommendations simply select **Recommendations** from the primary navigation menu, for the list of actions that form the implementation plan select **Implementation plan** (also see [Navigation](/intro/navigation.md)).
 
+![](/assets/enter-recs_1-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 > Note: depending on your configuration menu item names may differ
 
 ---
@@ -31,6 +34,9 @@ To go to the list of recommendations simply select **Recommendations** from the 
 #### 2. Click IMPORT
 
 From the recommendation list view (or any other item that allows importing), open the batch import screen by clicking the 'Import' button (see screenshot above).
+
+![](/assets/import_2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ---
 
@@ -40,14 +46,17 @@ From the recommendation list view (or any other item that allows importing), ope
 
 If you do not already have a compatible CSV file for the item you are trying to import, you can download a CSV template on the batch import screen by clicking the 'Download the CSV template' link.
 
+![](/assets/import_3.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ##### 3.2. Open CSV template (MS Excel or similar spreadsheet editing software)
 
  Open the downloaded CSV template as a spreadsheet in MS Excel or similar spreadsheet editing software and inspect the fields.
 
  An example recommendations template opened in MS Excel is shown in the screenshot below:
 
- ![](/assets/import-rec-template.png)  
- _Screenshot of template downloaded from demo site ([demo.impactoss.org](https://demo.impactoss.org)) and opened in MS Excel - all content for demo purposes only_
+ ![](/assets/import_3-2.png)  
+ _Screenshot of template downloaded from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) and opened in MS Excel - all content for demo purposes only_
 
 The first row's columns contain all the field descriptions and database field names in the square brackets `[database:title]` - please do not remove or edit the square brackets as these are required for the database to map the data.
 
@@ -68,8 +77,8 @@ To prepare the CSV template, please delete the second row. Do not however delete
 
 Enter or copy and paste your data into the spreadsheet, using **one row for each recommendation** (or whatever items you are importing).
 
-![](/assets/import-rec-editing.png)  
-_Screenshot of template downloaded from demo site ([demo.impactoss.org](https://demo.impactoss.org)) and opened in MS Excel - all content for demo purposes only_
+![](/assets/import_3-4.png)  
+_Screenshot of template downloaded from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) and opened and updated in MS Excel - all content for demo purposes only_
 
 > Please note: when using the import feature for the first time it is recommended to test it with a small file only containing a limited number of items
 
@@ -96,7 +105,9 @@ _Screenshot of template downloaded from demo site ([demo.impactoss.org](https://
 Now that you have saved your file in the correct format, you are ready to load the file into IMPACT OSS. To do so
 
 * click the 'Select file' button in the batch import screen (see screenshot above)
+  ![](/assets/import_4-1-1.png)    
 * select your file and press 'Open'
+  ![](/assets/import_4-1-2.png)  
 * wait for IMPACT OSS to check and analyse your file
 
 ##### 4.2. Import data
