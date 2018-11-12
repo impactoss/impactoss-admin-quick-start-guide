@@ -24,11 +24,17 @@ Steps for entering a human rights recommendation:
 
 From the primary menu select 'Recommendations'.
 
+![](/assets/enter-recs_1-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ##### 1.2. Click 'Add Recommendation +'
 
 The 'New recommendation' page can be opened by clicking the 'Add Recommendation +' button.
 
 > Note: only logged in users with sufficient privileges, namely users with user role 'Manager' or 'Administrator' will have this option
+
+![](/assets/enter-recs_1-2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 1.3. Enter recommendation details
 
@@ -45,6 +51,9 @@ Enter the recommendation details according to the available attributes (required
 
 > Note: other configurations may offer additional attributes, i.e. **Full recommendation text**, **Government response**, **Government response comment**.
 
+![](/assets/enter-recs_1-3.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ##### 1.4. Cluster and group recommendations
 
 Below on the right you can assign one or more categories for each classification. By doing so the wide ranging obligations become more manageable and easier to track.
@@ -54,6 +63,9 @@ In particular you should at least assign:
 1. One **Recommending mechanism** (alternatively called 'Human rights body' or 'Human rights mechanism')
 2. One **Reporting cycle**
 3. One or more **Recommendation clusters** (if available, alternatively called 'Thematic cluster')
+
+![](/assets/enter-recs_1-4.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 Further you can assign one or more categories of any of the other available classifications (depending on the specific configuration). These could include:
 * **Themes** (alternatively called 'Human rights issues')
@@ -68,9 +80,16 @@ For each classification:
 
 Simply click on the classification title.
 
+![](/assets/enter-recs_1-4-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ###### 1.4.2. Optional: create a new category
 
 If your category is not yet available, you can create a new category by clicking 'Add +' at the bottom left of the options panel.
+
+![](/assets/enter-recs_1-4-2.png)
+
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 Enter the category details just like entering the recommendation details (see 1.3. above) and hit 'SAVE' at the bottom of the 'New category' dialogue.
 
@@ -83,13 +102,32 @@ The category attributes are:
 5. **Description**: Optional: a description of the category. Can also include any commentary provided.
 6. **Website**: Optional: any external website address that may provide further information about the category.
 
+![](/assets/enter-recs_1-4-2a.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ###### 1.4.3. Optional: filter options by keyword
 
 Simply enter a (partial) keyword to filter the list of options.
 
-###### 1.4.4. Close classification options
+![](/assets/enter-recs_1-4-3.png)
+
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+###### 1.4.4. Select applicable category options
+
+Select one or more applicable categories. Please note how updated items are marked on the right (also highlighted in screenshot below).
+
+![](/assets/enter-recs_1-4-4.png)
+
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+###### 1.4.5. Close classifications options panel
 
 Click 'Close' at the bottom of the option panel.
+
+![](/assets/enter-recs_1-4-5.png)
+
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 1.5. Optional: link government actions
 
@@ -99,13 +137,19 @@ If you already have actions in the database that you would want to link the reco
 
 ##### 1.6. Save recommendation
 
-Once you are satisfied with the details entered and categories associated, hit the 'SAVE' button at the top or bottom of the form. Do not worry if you have forgotten some category associations or so not have available all the information required - you can always update the recommendation at a later stage.
+Once you are satisfied with the details entered and categories associated, hit the 'SAVE' button at the top or bottom of the form. Do not worry if you have forgotten some category associations or do not have available all the information required - you can always update the recommendation at a later stage.
+
+![](/assets/enter-recs_1-4-6.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ---
 
 #### 2. Review recommendation
 
 If saved successfully you will be taken to the 'single recommendation page' of the recommendation just created. Here you can review all the information entered and click 'Edit' to fix any errors you may find, add any linkages, and also publish or _unpublish_ the recommendation (see 3. below)
+
+![](/assets/enter-recs_2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ---
 
@@ -117,9 +161,15 @@ If you have not done so right away, you can publish a 'Draft' recommendation as 
 
 Click 'EDIT' to open the 'recommendation edit' page.
 
+![](/assets/enter-recs_3-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ##### 3.2. Change 'Publication Status' to 'Public'
 
 From the 'Publication Status' dropdown on the top right, select 'Public'.
+
+![](/assets/enter-recs_3-2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### 3.3. Save recommendation
 
