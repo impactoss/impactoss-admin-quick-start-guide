@@ -22,6 +22,9 @@ To go to the list of recommendations simply select **Recommendations** from the 
 
 > Note: depending on your configuration menu item names may differ
 
+![](/assets/enter-recs_1-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ---
 
 #### 2. Filter recommendations or actions
@@ -36,6 +39,9 @@ The available filter options are (again these can be mixed and applied in any or
 
 By typing into the search field you can filter list items by keyword, targeting each list item's title, and unique reference (sometime database id).
 
+![](/assets/explore-2a.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ##### Filter by attribute
 
 You can filter items by specific attributes and characteristics by following these steps:
@@ -43,6 +49,9 @@ You can filter items by specific attributes and characteristics by following the
 1. Enable **Filter** mode if not already active
 2. Click on an attribute (e.g. **Publication status**) in the **Filter by attribute** section of filter options
 3. Click or select the attribute value (e.g. **Draft**) that you would like the list items to match. Note that for each value the number of matching items is displayed (under consideration of all other active filter options).
+
+![](/assets/explore-2b.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### Filter by category
 
@@ -52,6 +61,9 @@ You can filter the list items by any category they have been tagged with (see fo
 2. Click on a classification (e.g. **Recommending mechanism**) in the **Filter by category** section of filter options (note: you can also hide and show these classifications by clicking on the section title)
 3. Optionally filter available categories by keyword
 4. Click or select the category (e.g. **Universal Periodic Review**) that you would like the list items to match.
+
+![](/assets/explore-2c.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ##### Filter by related category (action implementation plan only)
 
@@ -71,7 +83,17 @@ Further you can filter list items by relationship, resulting for example in a li
 3. Optionally filter available relationships by keyword or category.
 4. Click or select the related item that you would like the items to be associated with.
 
-> Hint: to remove any filter options just repeat the same steps, unselecting the active filter option in the last step, or simply click on the filter tag in the keyword search bar.
+![](/assets/explore-2e.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+##### Remove filters
+
+To remove any filter options just repeat the same steps, unselecting the active filter option in the last step.
+
+Alternatively you can click on a filter tag (1 in screenshot below) in the keyword search bar to remove a single filter or the 'X' on the right of the search bar (2) to remove all filters.
+
+![](/assets/explore-2f.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ---
 
@@ -87,11 +109,17 @@ To customise the list groups:
 
 Below the keyword search box and above the list, simply select a classification from the **Group by** dropdown.
 
+![](/assets/explore-3-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 > Note: if a classification is already selected, remove it by clicking the classification name or the **X** next to it. This will also remove any subgroup classification.
 
 ##### 3.2. Select subgroup classification
 
 If a main group classification is set, you can select another classification from the **Subgroup by** dropdown.
+
+![](/assets/explore-3-2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ---
 
@@ -105,11 +133,17 @@ To customise the order of list items:
 
 Below the keyword search box and on the right of the list header, select an attribute from the dropdown.
 
+![](/assets/explore-4-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
 ##### 4.2. Select sort order
 
 In addition, you can specify the sort order by clicking on the sort order icon right next to the attribute dropdown
 
-> Hint: when grouped, sorting is applied only within each group and subgroup, so if you want true sorting of all objects you must remove any grouping settings first (see above)
+![](/assets/explore-4-2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+> Note: when grouped, sorting is applied only within each group and subgroup, so if you want true sorting of all objects you must remove any grouping settings first (see above)
 
 ---
 
@@ -119,18 +153,42 @@ For the Implementation Plan or action list view an additional view mode is avail
 
 Where the list view only shows the numbers of nested indicators and progress reports (remember: each action can have multiple indicators and each indicator multiple progress reports), the implementation plan view will expand these nested items into nested item lists.
 
-There are three different ways to change the view mode:
+##### Change to implementation view
 
-##### 'View mode' link (1)
+There are three different ways to change the view mode from the default list view to the implementation view:
 
-Simply click on the view mode link which is located above the list header on the right and is labelled either with **List view** or **Implementation view**
+![](/assets/explore-5-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
-##### Summary (2)
+###### 'View mode' link (1)
+
+Simply click on the view mode link which is located above the list header on the right and -when in list view- is labelled with **Implementation view**.
+
+###### Summary (2)
 
 Alternatively, you can click on any nested summary to expand the list one column at a time. Clicking on an indicator summary will expand the second column but still only show summaries of the third progress report column. Clicking on a progress report summary will always expand both columns.
 
 > Note: minimising expanded columns is only possible using the 'view mode' link (see above) or the column headers (see below)
 
-##### Column headers (3)
+###### Column headers (3)
 
 Finally, just like using the summary boxes to drill down (see above), you can also expand the list one column at a time by clicking on the respective column headers. Unlike for the summary boxes, you can collapse the columns by clicking once more.
+
+
+##### Change to list view
+
+There are three different ways to change the view mode from the default list view to the implementation view:
+
+![](/assets/explore-5-1.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+##### 'View mode' link (1)
+
+Simply click on the view mode link which is located above the list header on the right and -when in implementation view- is labelled with **List view**.
+
+##### Column headers (2)
+
+Finally, you can also collapse the list one column at a time by clicking on the respective column headers.
+
+![](/assets/explore-5-2.png)
+_Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
