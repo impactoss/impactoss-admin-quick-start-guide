@@ -20,10 +20,10 @@ The available list view options are:
 
 To go to the list of recommendations simply select **Recommendations** from the primary navigation menu, for the list of actions that form the implementation plan select **Implementation plan** (also see [Navigation](/intro/navigation.md)).
 
-> Note: depending on your configuration menu item names may differ
-
 ![](/assets/enter-recs_1-1.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
+
+> Note: depending on your configuration menu item names may differ
 
 ---
 
