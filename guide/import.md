@@ -118,7 +118,7 @@ If your file is compatible, the application will display the filename and make t
 
 Then once you click 'Import x rows' the application will try to create each item one by one, raising any errors it may encounter in the process.
 
-Once the import has successfully completed you can either chose to 'IMPORT ANOTHER FILE' or return 'BACK TO LIST' of recommendations (see screenshot below)
+Once the import has successfully completed you can either chose to **IMPORT ANOTHER FILE** or return **BACK TO LIST** of recommendations (see screenshot below)
 
 ![](/assets/import-rec-import-success.png)
 
@@ -132,4 +132,4 @@ Then open and inspect each item (or a large enough subset of the items) and veri
 
 ##### 4.4. Publish items
 
-As the batch import feature will always set the publication status to 'Draft', you will still have to publish them once you have reviewed and linked them. For how to publish a single item or multiple items see: [Publish items](/managers/publish.md).
+As the batch import feature will always set the publication status to 'Draft', you will still have to publish them once you have reviewed and linked them. For how to publish a single item please see for example section 3 of [Recommendations: enter & cluster](/guide/enter-recommendations.md) or for multiple items at once see [Batch edit: update multiple](/guide/batch-edit.md).
