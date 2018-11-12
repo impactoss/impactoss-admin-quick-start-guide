@@ -126,7 +126,7 @@ Once the import has successfully completed you can either chose to **IMPORT ANOT
 
 ##### 4.3. Review items
 
-When returned back to the list view you can identify the recently imported items by filtering the list by 'Publication status' (select 'Draft') as the import feature only creates draft items (see [Explore Draft Content](/contributors/draft.md)). An alternative method would be to sort the list by creation date (see also [List view options](/visitors/lists.md)).
+When returned back to the list view you can identify the recently imported items by filtering the list by 'Publication status' (select 'Draft') as the import feature only creates draft items. An alternative method would be to sort the list by creation date (see also [List view options](/visitors/lists.md)).
 
 Then open and inspect each item (or a large enough subset of the items) and verify that the data was imported as expected.
 
