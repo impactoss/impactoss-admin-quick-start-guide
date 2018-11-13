@@ -2,7 +2,7 @@
 
 # Admin Quick Start Guide
 
-This resource is a collection of **step by step guides** for **[IMPACT OSS](https://impactoss.org) website administrators**, complemented by this introductory chapter for an overview of features and basic concepts. IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History](/appendix/history.md)).
+This resource is a collection of **step by step guides** for **[IMPACT OSS](https://impactoss.org) website administrators**, complemented by an introductory chapter for an overview of features and basic concepts. IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History](/appendix/history.md)).
 
 It is split into 3 parts:
 
