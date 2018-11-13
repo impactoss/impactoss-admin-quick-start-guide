@@ -1,7 +1,6 @@
-This manual is part of the IMPACT OSS open source software and accordingly licensed under its MIT license, see
-https://github.com/impactoss/impactoss-client
+### License
 
-This manual is part of the [IMPACT OSS open source software](https://github.com/impactoss/impactoss-client/) and accordingly licensed under the same MIT license
+This manual is part of [IMPACT OSS](https://github.com/impactoss/impactoss-client) and accordingly licensed under the same MIT license
 
 =======================
 

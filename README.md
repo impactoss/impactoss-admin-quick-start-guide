@@ -49,7 +49,7 @@ The IMPACT OSS project and all documentation is maintained by the [Impact Open S
 
 ![](/assets/universal-rights-group.png)![](/assets/singapore-mission-geneva.png)
 
-For more information on the development history and credits for the IMPACT OSS software please take a look at [**History & credits**](/appendix/history.md).
+For more information on the development history and credits for IMPACT OSS please take a look at [**History**](/appendix/history.md).
 
 ---
 
