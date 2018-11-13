@@ -1,8 +1,13 @@
-## User roles
+
+---
+## 2. Additional information
+---
+
+### User roles
 
 In IMPACT OSS registered users have one of the following roles (ordered by increasing privileges). Typically most users would be contributors or managers and only a few would be administrators.
 
-### Guest (no role assigned)
+#### Guest (no role assigned)
 
 Once a website visitor registers, they will immediately assume the implicit role **Guest**.
 
@@ -14,7 +19,7 @@ Compared to visitors that have not registered **guests** can
 * contribute a draft progress report for any indicator (a draft report will not be publicly visible unless a manager or administrator explicitly publishes it)
 * be promoted (by a manager or administrator)
 
-### Contributor
+#### Contributor
 
 **Contributors** are users that can be made responsible for contributing **progress reports** to an indicator they have been assigned to.
 
@@ -25,7 +30,7 @@ In addition to the guest privileges (see above), **contributors** can
 * receive email reminders for contributing progress reports for indicators they have been assigned to (if a reporting schedule has been set up by a manager or administrator)
 * contribute and publish a progress report for the indicator they have been assigned to
 
-### Manager
+#### Manager
 
 **Managers** are users that can with few exceptions (see Administrators below) manage all the content of IMPACT OSS.
 
@@ -36,7 +41,7 @@ In addition to the contributor privileges (see above), **managers** can
 * promote guests to become contributors (as well as demote accordingly)
 * assign contributors to indicators
 
-### Administrator
+#### Administrator
 
 **Administrators** have all available privileges
 
