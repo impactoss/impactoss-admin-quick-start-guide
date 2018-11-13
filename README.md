@@ -57,4 +57,4 @@ For more information on the history of IMPACT OSS please take a look at [**Histo
 
 ##### License
 
-This manual is part of [IMPACT OSS](https://github.com/impactoss/impactoss-client) and accordingly licensed under the same MIT license, see [License](LICENSE.md).
+This manual is part of [IMPACT OSS](https://github.com/impactoss/impactoss-server/) and accordingly licensed under the same MIT license, see [License](LICENSE.md)
