@@ -8,7 +8,7 @@
 
 This guide is a brief introduction to **IMPACT OSS** for **website administrators**. IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History & credits](/appendix/history.md)).
 
-It is split into 3 parts
+It is split into 3 parts:
 
 ##### 1. Introduction
 
@@ -18,7 +18,7 @@ This introductory part is complemented by the following sections that explain th
 * **[>> Navigation](/intro/navigation.md)**: an introduction to IMPACT OSS navigation concepts
 * **[>> Managing content](/intro/management.md)**: a few notes on how to manage content in IMPACT OSS
 
-##### 2. Step-by-step instructions
+##### 2. Quick start: step-by-step instructions
 
 The main part of this guide contains a few selected use cases with step-by-step instructions for website administrators:
 

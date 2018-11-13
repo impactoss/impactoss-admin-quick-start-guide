@@ -1,6 +1,6 @@
 
 ---
-## 2. Step by step
+## 2. Quick start: step by step instructions
 ---
 
 ### Users: invite & promote

@@ -7,7 +7,7 @@
 * [Navigation](intro/navigation.md)
 * [Managing content](intro/management.md)
 
-## 2. Step by step
+## 2. Quick start: step by step
 
 * [Users: invite & promote](guide/users-admin.md)
 * [Recommendations: enter & cluster](guide/enter-recommendations.md)
