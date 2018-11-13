@@ -139,7 +139,7 @@ If you already have actions in the database that you would want to link the reco
 
 Once you are satisfied with the details entered and categories associated, hit the 'SAVE' button at the top or bottom of the form. Do not worry if you have forgotten some category associations or do not have available all the information required - you can always update the recommendation at a later stage.
 
-![](/assets/enter-recs_1-4-6.png)
+![](/assets/enter-recs_1-6.png)
 _Screenshot from demo site ([demo-rights.impactoss.org](https://demo-rights.impactoss.org)) - all content for demo purposes only_
 
 ---
