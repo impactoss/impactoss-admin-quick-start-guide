@@ -10,7 +10,7 @@ This guide is a brief introduction to **IMPACT OSS** for **website administrator
 
 It is split into 3 parts:
 
-##### 1. Introduction
+#### 1. Introduction
 
 This introductory part is complemented by the following sections that explain the features and basic concepts of IMPACT OSS:
 
@@ -18,7 +18,7 @@ This introductory part is complemented by the following sections that explain th
 * **[>> Navigation](/intro/navigation.md)**: an introduction to IMPACT OSS navigation concepts
 * **[>> Managing content](/intro/management.md)**: a few notes on how to manage content in IMPACT OSS
 
-##### 2. Quick start: step-by-step instructions
+#### 2. Quick start: step-by-step instructions
 
 The main part of this guide contains a few selected use cases with step-by-step instructions for website administrators:
 
@@ -29,7 +29,7 @@ The main part of this guide contains a few selected use cases with step-by-step 
 * **[>> Batch edit: update multiple](guide/batch-edit.md)**: how to update multiple Government actions and UN recommendations at once
 * **[>> Import: create multiple](guide/import.md)**: how to create multiple Government actions and UN recommendations at once
 
-##### 3. Additional information
+#### 3. Additional information
 
 The final part provides some additional information, in particular:
 
@@ -43,7 +43,7 @@ This guide is aimed at **admin users only** that are tasked with editing the con
 
 ---
 
-###### Credits
+##### Credits
 
 The IMPACT OSS project and all documentation is maintained by the [Impact Open Source Software Trust](http://impactoss.org/). This guide and the setup of the "Rights only" demo site was kindly supported by the [Universal Rights Group Geneva](http://www.universal-rights.org/) and the [Permanent Mission of the Republic of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
 
@@ -53,6 +53,6 @@ For more information on the development history and credits for IMPACT OSS pleas
 
 ---
 
-###### License
+##### License
 
 This manual is part of [IMPACT OSS](https://github.com/impactoss/impactoss-client) and accordingly licensed under the same MIT license, see [License](LICENSE.md).
