@@ -1,6 +1,6 @@
 ### Managing content
 
-Rather than having a separate "back-end" (or admin portal) to manage content, IMPACT OSS allows editing content right through the "front-end" (or public User Interface): additional options and information become available to "admin" users once logged in (registered users with sufficient privileges, see also **[Types of users](/info/usertypes.md)**).
+Rather than having a separate "back-end" (or admin portal) to manage content, IMPACT OSS allows editing content right through the "front-end" (or public User Interface): additional options and information become available to "admin" users once logged in (registered users with sufficient privileges, see also **[User roles](/info/userroles.md)**).
 
 ##### List view
 

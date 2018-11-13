@@ -1,6 +1,6 @@
 ### Pages
 
-The IMPACT OSS web application offers several pages for inspecting and managing the different content items (see also [Features](/features.md)). These individual pages are briefly introduced in this section, that also explains how to navigate to the different views and what else to do from there.
+The IMPACT OSS web application offers several pages for inspecting and managing the different content items (see also [Features](/intro/features.md)). These individual pages are briefly introduced in this section, that also explains how to navigate to the different views and what else to do from there.
 
 #### Introductory pages
 
