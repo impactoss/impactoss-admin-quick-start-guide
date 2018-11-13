@@ -22,5 +22,5 @@
 
 ## Appendix
 
-* [History & credits](/appendix/history.md)
+* [History](/appendix/history.md)
 * [License](LICENSE.md)
