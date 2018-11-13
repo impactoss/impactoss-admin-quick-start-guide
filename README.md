@@ -10,6 +10,8 @@ This guide is a brief introduction to **IMPACT OSS** for **website administrator
 
 It is split into 3 parts:
 
+---
+
 #### 1. Introduction
 
 This introductory part is complemented by the following sections that explain the features and basic concepts of IMPACT OSS:
@@ -18,7 +20,9 @@ This introductory part is complemented by the following sections that explain th
 * **[>> Navigation](/intro/navigation.md)**: an introduction to IMPACT OSS navigation concepts
 * **[>> Managing content](/intro/management.md)**: a few notes on how to manage content in IMPACT OSS
 
-#### 2. Quick start: step-by-step instructions
+---
+
+#### 2. Quick start guides: step-by-step instructions
 
 The main part of this guide contains a few selected use cases with step-by-step instructions for website administrators:
 
@@ -28,6 +32,8 @@ The main part of this guide contains a few selected use cases with step-by-step 
 * **[>> Explore: filter, group & sort](/guide/explore.md)**: the different options for viewing the implementation plan of actions
 * **[>> Batch edit: update multiple](guide/batch-edit.md)**: how to update multiple Government actions and UN recommendations at once
 * **[>> Import: create multiple](guide/import.md)**: how to create multiple Government actions and UN recommendations at once
+
+---
 
 #### 3. Additional information
 

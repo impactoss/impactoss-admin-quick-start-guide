@@ -1,6 +1,6 @@
 
 ---
-## 2. Quick start: step by step instructions
+## 2. Quick start guides: step by step instructions
 ---
 
 ### Users: invite & promote
