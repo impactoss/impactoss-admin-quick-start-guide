@@ -2,11 +2,7 @@
 
 # Admin Quick Start Guide
 
----
-## 1. Introduction
----
-
-This guide is a brief introduction to **IMPACT OSS** for **website administrators**. IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History & credits](/appendix/history.md)).
+This resource is a collection of **step by step guides** for **[IMPACT OSS](https://impactoss.org) website administrators**, complemented by this introductory chapter for an overview of features and basic concepts. IMPACT OSS, the Open Source Software (OSS) for Integrated Management and Planning of Actions (IMPACT), was created to assist States with coordinating and monitoring implementation of human rights and the Sustainable Development Goals (SDGs) (also see [History](/appendix/history.md)).
 
 It is split into 3 parts:
 
@@ -14,7 +10,7 @@ It is split into 3 parts:
 
 #### 1. Introduction
 
-This introductory part is complemented by the following sections that explain the features and basic concepts of IMPACT OSS:
+The first chapter contains the following sections that explain the features and basic concepts of IMPACT OSS:
 
 * **[>> Features](/intro/features.md)**: an overview of features
 * **[>> Navigation](/intro/navigation.md)**: an introduction to IMPACT OSS navigation concepts
@@ -24,7 +20,7 @@ This introductory part is complemented by the following sections that explain th
 
 #### 2. Quick start guides: step-by-step instructions
 
-The main part of this guide contains a few selected use cases with step-by-step instructions for website administrators:
+The main chapter of this document contains a selection of step-by-step instructions, guiding for website administrators through some important use cases:
 
 * **[>> Users: invite & promote](/guide/users-admin.md)**: how to get additional users on board
 * **[>> Recommendations: enter & cluster](/guide/enter-recommendations.md)**: how to enter & cluster UN recommendations
@@ -51,11 +47,11 @@ This guide is aimed at **admin users only** that are tasked with editing the con
 
 ##### Credits
 
-The IMPACT OSS project and all documentation is maintained by the [Impact Open Source Software Trust](http://impactoss.org/). This guide and the setup of the "Rights only" demo site was kindly supported by the [Universal Rights Group Geneva](http://www.universal-rights.org/) and the [Permanent Mission of the Republic of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
+The IMPACT OSS project and documentation is maintained by the [Impact Open Source Software Trust](http://impactoss.org/). This guide and the setup of the "Rights only" demo site was kindly supported by the [Universal Rights Group Geneva](http://www.universal-rights.org/) and the [Permanent Mission of the Republic of Singapore, Geneva](https://www.mfa.gov.sg/content/mfa/overseasmission/geneva.html).
 
 ![](/assets/universal-rights-group.png)![](/assets/singapore-mission-geneva.png)
 
-For more information on the development history and credits for IMPACT OSS please take a look at [**History**](/appendix/history.md).
+For more information on the history of IMPACT OSS please take a look at [**History**](/appendix/history.md).
 
 ---
 
